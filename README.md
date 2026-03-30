@@ -40,22 +40,12 @@
 
 ## GitHub stats
 
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franruizn&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-    </td>
-    <td align="center" width="50%">
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franruizn&layout=compact&theme=default&hide_border=true)
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      ![GitHub Streak](https://streak-stats.demolab.com?user=franruizn&theme=default&hide_border=true)
-    </td>
-  </tr>
-</table>
-
+<table width="100%"><tr>
+<td align="center">
+![stats](https://github-readme-stats.vercel.app/api?username=franruizn&show_icons=true&hide_border=true&count_private=true&theme=default)
+</td><td align="center">
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franruizn&layout=compact&hide_border=true&theme=default)
+</td></tr></table>
 
 ---
 
