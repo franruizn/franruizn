@@ -38,14 +38,13 @@
 
 ---
 
-## GitHub stats
+## GitHub activity
 
-<table width="100%"><tr>
-<td align="center">
-![stats](https://github-readme-stats.vercel.app/api?username=franruizn&show_icons=true&hide_border=true&count_private=true&theme=default)
-</td><td align="center">
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franruizn&layout=compact&hide_border=true&theme=default)
-</td></tr></table>
+<!-- Badges estáticos — siempre cargan, no dependen de servicios externos -->
+![Years coding](https://img.shields.io/badge/coding_since-2022-1D9E75?style=flat-square)
+![Main language](https://img.shields.io/badge/main_language-JavaScript_%2F_TypeScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![Backend focus](https://img.shields.io/badge/focus-backend_%26_distributed_systems-326ce5?style=flat-square)
+![Experience](https://img.shields.io/badge/experience-2%2B_years_production-0F6E56?style=flat-square)
 
 ---
 
