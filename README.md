@@ -75,7 +75,5 @@ Advanced Java, unit testing, relational databases, software design patterns.
 
 ---
 
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/franciscoruiznieto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-ruiz-nieto/) 
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:franciscoruiznietoo@gmail.com)
-</div>
